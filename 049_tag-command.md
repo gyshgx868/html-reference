@@ -49,11 +49,7 @@ New：HTML5 中的新属性。
 | [icon](att-command-icon.html) (New) | _URL_ | 规定作为 command 来显示的图像的 URL。 |
 | [label](att-command-label.html) (New) | _text_ | 必需。规定 command 的名字，对用户可见。 |
 | [radiogroup](att-command-radiogroup.html) (New) | _groupname_ | 规定可进行切换且将被切换的 command 所属的组名。仅在类型为 radio 时使用。 |
-| [type](att-command-type.html) (New) | checkbox
-
- command
-
- radio | 定义 command 的类型。默认是 "command"。 |
+| [type](att-command-type.html) (New) | checkbox<br/>command<br/>radio | 定义 command 的类型。默认是 "command"。 |
 
 ## 全局属性
 
